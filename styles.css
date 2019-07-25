@@ -1,0 +1,12 @@
+
+
+#info {
+	position: absolute;
+	top: 36px;
+	width: 100%;
+	text-align: center;
+	z-index: 80;
+	display:block;
+	color: white;
+	font-size: 36px;
+}
